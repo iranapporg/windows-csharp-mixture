@@ -1,0 +1,10 @@
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\bin\Debug\Resizer.exe
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\bin\Debug\Resizer.pdb
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\obj\Debug\ResolveAssemblyReference.cache
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\obj\Debug\Resizer.Form1.resources
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\obj\Debug\Resizer.Properties.Resources.resources
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\obj\Debug\Resizer.csproj.GenerateResource.Cache
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\obj\Debug\Resizer.exe
+J:\My Project\Programming\C#\Mixture\Plug-in\Resizer\Resizer\Resizer\obj\Debug\Resizer.pdb
+J:\My Project\Programming\C#\Mixture\Plug-in\Crop\Resizer\Resizer\obj\Debug\Resizer.exe
+J:\My Project\Programming\C#\Mixture\Plug-in\Crop\Resizer\Resizer\obj\Debug\Resizer.pdb

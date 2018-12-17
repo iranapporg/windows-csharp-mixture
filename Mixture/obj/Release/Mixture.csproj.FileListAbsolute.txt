@@ -1,0 +1,11 @@
+F:\Color\New folder\Mixture\Mixture\bin\Release\Mixture.exe
+F:\Color\New folder\Mixture\Mixture\bin\Release\Mixture.pdb
+F:\Color\New folder\Mixture\Mixture\obj\Release\ResolveAssemblyReference.cache
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.Form1.resources
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.Mixture.resources
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.Properties.Resources.resources
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.ShowColor.resources
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.ShowInf.resources
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.csproj.GenerateResource.Cache
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.exe
+F:\Color\New folder\Mixture\Mixture\obj\Release\Mixture.pdb

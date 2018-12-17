@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mixture">
+</Property><Property Name="Solution File" Value="J:\My Project\Programming\C#\Mixture\Mixture.sln">
+</Property><Property Name="Date" Value="Friday, February 21, 2014">
+</Property><Property Name="Time" Value="23:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Mixture" Source="Mixture\Mixture.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Mixture" Source="Mixture\Mixture.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mixture.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mixture.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Mixture" Source="Mixture\Mixture.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
